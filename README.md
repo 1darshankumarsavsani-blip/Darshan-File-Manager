@@ -110,7 +110,7 @@ Settings are saved in `%APPDATA%\DarshanFileManager\settings.ini` and the undo l
 - [ ] Duplicate file finder
 - [ ] Dark theme
 
-An **Android version** of Darshan File Manager is also available.
+📱 **Android version:** [Darshan File Manager for Android](https://github.com/1darshankumarsavsani-blip/Darshan-File-Manager-Android)
 
 ---
 
